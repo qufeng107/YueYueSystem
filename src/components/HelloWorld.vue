@@ -2,31 +2,25 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      夏川玥玥Official的主页<br>
+      <a href="https://space.bilibili.com/1802011210" target="_blank" rel="noopener">传送门</a>
+      <br><br><br>
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>帮众这边请</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li><a href='member.html' target="_blank" rel="noopener">精彩视频</a></li><br>
+      <li><a href='member.html' target="_blank" rel="noopener">壁纸资源</a></li><br>
+      <li><a href='member.html' target="_blank" rel="noopener">待更新</a></li><br>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>堂主和护法这边请</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li><a href='member-vip.html' target="_blank" rel="noopener">传送门</a></li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h3>帮主这边请</h3>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li><a href='admin.html' target="_blank" rel="noopener">传送门</a></li>
     </ul>
+    <br><br><br><br> 
   </div>
 </template>
 
