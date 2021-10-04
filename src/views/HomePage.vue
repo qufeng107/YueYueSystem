@@ -10,7 +10,7 @@
     <h3>帮众入口</h3>
     <ul>
       <!-- <router-link to="/Page2">中奖页</router-link> -->
-      <router-link target="_blank" :to="{path:'/Page2',query:{id:'1'}}">中奖信息查询</router-link>
+      <router-link target="_blank" :to="{path:'/Page2',query:{id:'1'}}">中奖信息查询（可用/测试中）</router-link>
       <br>
       <router-link target="_blank" :to="{path:'/Page1',query:{id:'1'}}">待更新</router-link>
 
@@ -22,7 +22,7 @@
 
     <h3>帮主入口</h3>
     <ul>
-      <li><a href='admin.html' target="_blank" rel="noopener">传送门</a></li>
+      <li><a href='admin.html' target="_blank" rel="noopener">待更新</a></li>
     </ul>
     <br><br><br>
     <ul>
@@ -58,6 +58,19 @@ li {
 a {
   color: #42b983;
 }
+
+.hello::before{
+	content: ' ';
+	position: fixed;
+	z-index: -1;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: #FFF5FA;
+	background-size: 100% auto;
+}
+
 end1 {
   margin: 40px 0 0;
 }
