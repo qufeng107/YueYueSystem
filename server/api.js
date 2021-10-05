@@ -28,7 +28,7 @@ let jsonWrite = function (response, result) {
 
 // 查询数据（'/select'）
 router.post('/select', (request, response) => {
-
+  console.log(request);
   // 获取编写相关sql语句
   let sql = $sql.user.select;
   console.log("相关sql语句：", sql);
